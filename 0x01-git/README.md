@@ -1,2 +1,1 @@
-My second readme
-A wonderful experience
+My second readme - a wonderful experience
